@@ -1,6 +1,11 @@
 # SaaS-PaaS-IaaS
 SaaS vs PaaS vs IaaS 
 
+Three models of cloud service to compare: 
+Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS)
+ 
+
+
 > Key Differences
 <img src='saas_diff.JPG' width='600px'>
 

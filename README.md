@@ -6,11 +6,14 @@ SaaS vs PaaS vs IaaS
 
 > Common Examples of SaaS, PaaS, & IaaS
 
-SaaS
+- SaaS
+
 Google Apps, Dropbox, Salesforce, Cisco WebEx, Concur, GoToMeeting
 
-PaaS
+- PaaS
+
 AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos, OpenShift
 
-IaaS
+- IaaS
+
 DigitalOcean, Linode, Rackspace, Amazon Web Services (AWS), Cisco Metapod, Microsoft Azure, Google Compute Engine (GCE)

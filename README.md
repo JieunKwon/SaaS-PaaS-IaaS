@@ -1,10 +1,10 @@
 # SaaS-PaaS-IaaS
 SaaS vs PaaS vs IaaS 
 
->> Key Differences
+> Key Differences
 <img src='saas_diff.JPG' width='600px'>
 
->> Common Examples of SaaS, PaaS, & IaaS
+> Common Examples of SaaS, PaaS, & IaaS
 
 SaaS
 Google Apps, Dropbox, Salesforce, Cisco WebEx, Concur, GoToMeeting

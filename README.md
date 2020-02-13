@@ -19,17 +19,20 @@ SaaS utilizes the internet to deliver applications, which are managed by a third
 - Example: Google Apps, Dropbox, Salesforce, Cisco WebEx, Concur, GoToMeeting
 
 - SaaS Characteristics: 
+
 Managed from a central location
 Hosted on a remote server
 Accessible over the internet
 Users not responsible for hardware or software updates
 
+- SaaS Limitations and Concerns
+
 
  
-- PaaS
+> 2. PaaS
 
 AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos, OpenShift
 
-- IaaS
+> 3. IaaS
 
 DigitalOcean, Linode, Rackspace, Amazon Web Services (AWS), Cisco Metapod, Microsoft Azure, Google Compute Engine (GCE)
